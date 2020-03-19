@@ -55,6 +55,11 @@ p {
     height: 1px;
 }
 
+#footerinfo {
+    margin-top: 10px;
+    font-size: 10pt;
+}
+
 .button {
     text-decoration: none;
     padding: .5em .9em;
